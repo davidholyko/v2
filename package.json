@@ -1,6 +1,6 @@
 {
-  "name": "davidholyko.github.io",
-  "homepage": "https://davidholyko.github.io",
+  "name": "portfolio-v2",
+  "homepage": "https://davidholyko.github.io/v2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
